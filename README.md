@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Oleh and I'm a Web Developer, from Ukraine.</p>
+<p align="center">I'm Oleh, a Web Developer passionate about building products from the ground up.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ "Creating bugs since 2022"<br>🎯 Goals: Building a strong web presence<br>🎲 Fun fact: Continuing to slap the keyboard</p>
+<p align="left">✨ "Creating bugs since 2022"<br>🎯 My goal is to create useful products from scratch, bringing value to users through constant iteration and improvement.<br>🎲 Fun fact: I’m always up for learning, even if it means slapping the keyboard a few extra times.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Technologies I Work With</h2>
 
 ###
 
@@ -43,3 +43,9 @@
 </div>
 
 ###
+
+<h2 align="left">My Approach</h2>
+
+###
+
+<p align="left">🚀 Quick MVPs, gather feedback, adapt, and decide. Building to learn and improve continuously.</p>
