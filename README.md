@@ -9,8 +9,9 @@
 <h2 align="left">About me</h2>
 
 ###
+<p>I'm a web developer who enjoys crafting scalable and user-focused web applications. Whether it's solving complex problems or learning new technologies, I'm always eager to create and grow.<</p>
 
-<p align="left">✨ "Turning challenges into opportunities since 2022"<br>🎯 My goal is to create useful products from scratch, bringing value to users through constant iteration and improvement.<br>🎲 Fun fact: I’m always up for learning, even if it means slapping the keyboard a few extra times.<br>I'm a web developer who enjoys crafting scalable and user-focused web applications. Whether it's solving complex problems or learning new technologies, I'm always eager to create and grow.</p>
+<p align="left">✨ "Turning challenges into opportunities since 2022"<br>🎯 My goal is to create useful products from scratch, bringing value to users through constant iteration and improvement.<br>🎲 Fun fact: I’m always up for learning, even if it means slapping the keyboard a few extra times.</p>
 
 ###
 
