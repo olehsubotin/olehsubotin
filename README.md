@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there! 👋 Welcome to my GitHub</h1>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ "Creating bugs since 2022"<br>🎯 My goal is to create useful products from scratch, bringing value to users through constant iteration and improvement.<br>🎲 Fun fact: I’m always up for learning, even if it means slapping the keyboard a few extra times.</p>
+<p align="left">✨ "Turning challenges into opportunities since 2022"<br>🎯 My goal is to create useful products from scratch, bringing value to users through constant iteration and improvement.<br>🎲 Fun fact: I’m always up for learning, even if it means slapping the keyboard a few extra times.<br>I'm a web developer who enjoys crafting scalable and user-focused web applications. Whether it's solving complex problems or learning new technologies, I'm always eager to create and grow.</p>
 
 ###
 
-<h2 align="left">Technologies I Work With</h2>
+<h2 align="center">Technologies I Work With</h2>
 
 ###
 
@@ -48,4 +48,4 @@
 
 ###
 
-<p align="left">🚀 Quick MVPs, gather feedback, adapt, and decide. Building to learn and improve continuously.</p>
+<p align="left">🚀 I believe in building quickly, learning constantly, and refining continuously. Starting with small, actionable MVPs, gathering user feedback, and evolving the product is how I ensure value and quality in everything I create.</p>
